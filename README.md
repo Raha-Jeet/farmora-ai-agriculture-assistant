@@ -45,32 +45,32 @@ An interactive chatbot to answer farming-related queries in real time.
 ## 🖼️ Project Screenshots
 
 ### 🔹 Home Page
-![Home Page](./screenshots/home.png)
+![Home Page]( home.png)
 
 ---
 
 ### 🔹 Services Page
-![Services Page](./screenshots/services.png)
+![Services Page]( services.png)
 
 ---
 
 ### 🔹 Disease Diagnosis & Crop Services
-![Disease Diagnosis](./screenshots/services-details.png)
+![Disease Diagnosis](services-details.png)
 
 ---
 
 ### 🔹 Gallery (Disease Dataset Preview)
-![Gallery](./screenshots/gallery.png)
+![Gallery]( gallery.png)
 
 ---
 
 ### 🔹 About Us & Team
-![Team](./screenshots/team.png)
+![Team]( team.png)
 
 ---
 
 ### 🔹 Dr. Farmora (AI Assistant)
-![Dr Farmora](./screenshots/dr-farmora.png)
+![Dr Farmora]( dr-farmora.png)
 
 ---
 
